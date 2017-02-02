@@ -1,0 +1,42 @@
+body{
+    background-color: #8E8E8E;
+}
+
+a {
+    color: green
+}
+
+#container{
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    background-color: #00B91A;
+    color: white;
+    text-align: center;
+}
+
+#content {
+    padding: 10;
+}
+
+#nav {
+    width: 180;
+    float: left;
+}
+
+#nav .selected {
+    font-weight: bold;
+}
+
+#main {
+    width: 600;
+    float: right;
+}
+
+#footer {
+    clear: both;
+}
