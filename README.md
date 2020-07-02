@@ -1,6 +1,3 @@
 # Benjamin203.github.io
 
-_Ben_
-**Ben**
-[link to Google!](http://google.com)
-`print`
+This is where I will be messing around with html css bootstrap python jquery and python
