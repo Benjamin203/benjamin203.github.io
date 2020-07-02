@@ -7,6 +7,10 @@ h1, h2, h3, h6 {
     margin: 0;
 }
 
+a:visited{
+  color: blue;
+}
+
 #container{
     background-color: #858585;
     width: 800px;
